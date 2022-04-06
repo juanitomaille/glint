@@ -3381,10 +3381,10 @@ footer .row {
     padding: 0;
     outline: 0;
     border: none;
-    width: 85px;
-    height: 28px;
-    background: url("../images/logo-footer.png") no-repeat center;
-    background-size: 85px 28px;
+    width: 160px;
+    height: 36px;
+    background: url("../images/logo.png") no-repeat center;
+    background-size: 160px 36px;
     font: 0/0 a;
     text-shadow: none;
     color: transparent;
